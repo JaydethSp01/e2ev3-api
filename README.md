@@ -1,2 +1,3 @@
-# e2ev3-api
-ScrumDev AI backend (e2ev3-api)
+# TPL Salud Cita Backend
+
+Este es el backend del sistema de gestión de citas médicas para la clínica.
